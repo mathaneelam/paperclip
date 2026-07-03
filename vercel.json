@@ -1,0 +1,5 @@
+{
+  "buildCommand": "pnpm --filter @paperclipai/ui build",
+  "outputDirectory": "ui/dist",
+  "installCommand": "pnpm install"
+}
